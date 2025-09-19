@@ -7,6 +7,7 @@ public class GitTest {
 		// 깃 테스트
 		// 정상적으로 Clone
 		// 다시 full
+		// full 어떻게 해야 하냐?
 	}
 
 }
